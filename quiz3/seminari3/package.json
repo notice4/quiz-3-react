@@ -2,7 +2,7 @@
   "name": "seminari3",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/notice4/quiz-3-react",
+  "homepage": "https://notice4.github.io/quiz-3-react",
   "type": "module",
   "scripts": {
   "dev": "vite",
